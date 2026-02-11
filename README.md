@@ -22,7 +22,6 @@ Actualmente el bot está probado con:
 Python 3.8
 ```
 
-> ⚠️ Aunque tienes Python **3.12** instalado en el sistema, **se recomienda usar Python 3.8** para evitar problemas de compatibilidad con algunas librerías.
 
 ---
 
